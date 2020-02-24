@@ -1,0 +1,14 @@
+D:\RND\azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+D:\RND\azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+D:\RND\azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+D:\RND\azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.dll
+D:\RND\azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.pdb
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cache
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cs
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorTargetAssemblyInfo.cache
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.dll
+D:\RND\azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.pdb
